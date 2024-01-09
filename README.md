@@ -52,16 +52,6 @@ Make sure you have the following installed:
 
 ---
 
-## Contributing
-
-If you'd like to contribute to the project, please follow the steps below:
-
-1. Fork the project.
-2. Create a new branch with a descriptive name.
-3. Make your changes and commit them.
-4. Push the changes to your fork.
-5. Submit a pull request.
-
 ---
 
 ## License
